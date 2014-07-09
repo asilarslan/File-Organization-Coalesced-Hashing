@@ -1,0 +1,13 @@
+C:\Users\AsusPc\Desktop\File Organization\File Organization\bin\Debug\File Organization.exe.config
+C:\Users\AsusPc\Desktop\File Organization\File Organization\bin\Debug\File Organization.exe
+C:\Users\AsusPc\Desktop\File Organization\File Organization\bin\Debug\File Organization.pdb
+C:\Users\AsusPc\Desktop\File Organization\File Organization\obj\Debug\File Organization.csprojResolveAssemblyReference.cache
+C:\Users\AsusPc\Desktop\File Organization\File Organization\obj\Debug\Pencere.baml
+C:\Users\AsusPc\Desktop\File Organization\File Organization\obj\Debug\Pencere.g.cs
+C:\Users\AsusPc\Desktop\File Organization\File Organization\obj\Debug\App.g.cs
+C:\Users\AsusPc\Desktop\File Organization\File Organization\obj\Debug\File Organization_MarkupCompile.cache
+C:\Users\AsusPc\Desktop\File Organization\File Organization\obj\Debug\File Organization.g.resources
+C:\Users\AsusPc\Desktop\File Organization\File Organization\obj\Debug\File_Organization.Properties.Resources.resources
+C:\Users\AsusPc\Desktop\File Organization\File Organization\obj\Debug\File Organization.csproj.GenerateResource.Cache
+C:\Users\AsusPc\Desktop\File Organization\File Organization\obj\Debug\File Organization.exe
+C:\Users\AsusPc\Desktop\File Organization\File Organization\obj\Debug\File Organization.pdb
